@@ -23,6 +23,11 @@
       bottom: 0;
       padding: 24px;
 
+      &:has(.text-lg) {
+        /*seletor que observe se tem alguma classe lá dentro*/
+        padding: 12px;
+      }
+
       h2 {
         margin-top: 8px;
       }
