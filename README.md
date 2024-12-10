@@ -1,4 +1,4 @@
-# News Page
+# Portal de notícias
 
 Um portal de notícias desenvolvido durante o curso Fullstack da Rocketseat, com foco no aprendizado e na aplicação prática do CSS Grid para criar layouts modernos, responsivos e bem estruturados.
 
